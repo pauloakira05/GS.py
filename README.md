@@ -1,9 +1,12 @@
 OceanGuard
-Descrição do Projeto
+
+Descrição do Projeto:
+
 OceanGuard é um aplicativo Python simples, desenvolvido para simular a coleta e análise de dados oceânicos, com o objetivo de monitorar a temperatura do oceano, a qualidade da água e a poluição por plástico. Além disso, o programa gera alertas baseados em critérios específicos e fornece recursos educativos sobre os impactos ambientais desses parâmetros.
 
-Funcionalidades
-Coleta de Dados
+Funcionalidades:
+
+-Coleta de Dados
 O OceanGuard simula a coleta de dados de três parâmetros ambientais:
 
 Temperatura do Oceano: Gera uma lista de 10 valores aleatórios de temperatura entre 15°C e 30°C.
